@@ -1,6 +1,6 @@
 package Two_Pointer;
 
-public class Two_sum {
+public class Remove_duplicates_arr_sorted {
     public static void main(String[] args) {
         int arr[]={0,0,1,1,1,2,2};
         System.out.println(RemoveDuplicate(arr));
